@@ -1,3 +1,3 @@
 # Love_yourself
-This is my first repository
-Auther-Vanshika
+This is my first repository.
+Author-Vanshika
